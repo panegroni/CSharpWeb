@@ -1,0 +1,25 @@
+﻿@model MVC_app_produit.Models.Produit
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Produit</legend>
+        <p>Référence : @Html.DisplayFor(model => model.Reference) </p>
+        <p>Libelle : @Html.DisplayFor(model => model.Libelle) </p>
+    </fieldset>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

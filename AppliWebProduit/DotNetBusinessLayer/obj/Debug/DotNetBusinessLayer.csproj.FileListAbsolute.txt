@@ -1,0 +1,6 @@
+C:\travail\AppliWebProduit\DotNetBusinessLayer\obj\Debug\DotNetBusinessLayer.csprojResolveAssemblyReference.cache
+C:\travail\AppliWebProduit\DotNetBusinessLayer\obj\Debug\DotNetBusinessLayer.Properties.Resources.resources
+C:\travail\AppliWebProduit\DotNetBusinessLayer\obj\Debug\DotNetBusinessLayer.csproj.GenerateResource.Cache
+E:\AppliWebProduit\DotNetBusinessLayer\obj\Debug\DotNetBusinessLayer.csprojResolveAssemblyReference.cache
+E:\AppliWebProduit\DotNetBusinessLayer\obj\Debug\DotNetBusinessLayer.Properties.Resources.resources
+E:\AppliWebProduit\DotNetBusinessLayer\obj\Debug\DotNetBusinessLayer.csproj.GenerateResource.Cache

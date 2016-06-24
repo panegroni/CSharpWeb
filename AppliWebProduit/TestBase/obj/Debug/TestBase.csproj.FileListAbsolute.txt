@@ -1,0 +1,2 @@
+C:\travail\AppliWebProduit\TestBase\obj\Debug\TestBase.csprojResolveAssemblyReference.cache
+C:\travail\AppliWebProduit\TestBase\bin\Debug\TestBase.exe.config
